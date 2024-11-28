@@ -88,4 +88,4 @@ ranging from 0.1% to 1%.
 6. Implementing a slight price increase of 0.1 can positively impact net income and gross margin, but efforts should also be directed towards addressing the reasons for returns to minimize their
    impact on overall profit. Additionally, conducting regular reviews of expenses and exploring opportunities for cost optimization can further enhance financial performance.
 
-## Project Link: https://app.powerbi.com/view?r=eyJrIjoiYTkzMDFlYzQtNWI1OS00YTE0LWIwYWMtNzQwM2UyNzRhOWQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+## Project Link: [https://app.powerbi.com/view?r=eyJrIjoiYTkzMDFlYzQtNWI1OS00YTE0LWIwYWMtNzQwM2UyNzRhOWQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]
